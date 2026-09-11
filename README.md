@@ -97,7 +97,7 @@ To enable automated invoice settlement upon on-chain confirmation:
 
 1. Copy your WHMCS Webhook Callback URL displayed in the gateway configuration instructions:
    ```text
-   https://your-whmcs-domain.com/modules/gateways/callback/paycow.php
+   https://example.com/modules/gateways/callback/paycow.php
    ```
 2. Log in to your **PayCow Merchant Dashboard**.
 3. Navigate to **Settings** -> **Webhook Settings**.
